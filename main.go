@@ -1,9 +1,9 @@
 package main
 
 import (
+	"log"
 	"os"
 
-	"bitbucket.org/dataskoop/x/log"
 	"github.com/codegangsta/cli"
 )
 
